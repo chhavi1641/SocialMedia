@@ -1,0 +1,79 @@
+[19-Jun-2024 05:28:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/server.php on line 11
+[19-Jun-2024 05:31:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/server.php on line 11
+[19-Jun-2024 05:31:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/server.php on line 11
+[19-Jun-2024 05:33:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:38:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:38:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:38:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:38:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:38:28 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 48
+[19-Jun-2024 05:38:28 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 49
+[19-Jun-2024 05:38:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:38:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 48
+[19-Jun-2024 05:38:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 49
+[19-Jun-2024 05:38:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:38:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:38:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 16
+[19-Jun-2024 05:38:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 17
+[19-Jun-2024 05:38:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 18
+[19-Jun-2024 05:38:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 19
+[19-Jun-2024 05:39:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:39:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 16
+[19-Jun-2024 05:39:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 17
+[19-Jun-2024 05:39:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 18
+[19-Jun-2024 05:39:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 19
+[19-Jun-2024 05:40:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:40:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:41:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:41:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:41:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:41:15 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 16
+[19-Jun-2024 05:41:15 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 17
+[19-Jun-2024 05:41:15 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 18
+[19-Jun-2024 05:41:15 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 19
+[19-Jun-2024 05:41:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:42:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:44:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 05:44:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 06:47:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 06:47:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 06:47:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 06:47:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 16
+[19-Jun-2024 06:47:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 17
+[19-Jun-2024 06:47:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 18
+[19-Jun-2024 06:47:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 19
+[19-Jun-2024 06:51:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 06:51:58 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 16
+[19-Jun-2024 06:51:58 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 17
+[19-Jun-2024 06:51:58 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 18
+[19-Jun-2024 06:51:58 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 19
+[19-Jun-2024 06:52:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 06:52:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 16
+[19-Jun-2024 06:52:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 17
+[19-Jun-2024 06:52:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 18
+[19-Jun-2024 06:52:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 19
+[19-Jun-2024 06:52:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 06:52:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 16
+[19-Jun-2024 06:52:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 17
+[19-Jun-2024 06:52:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 18
+[19-Jun-2024 06:52:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 19
+[19-Jun-2024 06:52:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 06:52:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 16
+[19-Jun-2024 06:52:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 17
+[19-Jun-2024 06:52:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 18
+[19-Jun-2024 06:52:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 19
+[19-Jun-2024 06:52:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 06:52:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 06:53:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 06:53:04 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 48
+[19-Jun-2024 06:53:04 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 49
+[19-Jun-2024 06:53:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 06:53:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 06:53:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 48
+[19-Jun-2024 06:53:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 49
+[19-Jun-2024 06:53:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 06:54:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chhavi/public_html/demo1/server.php on line 11
+[19-Jun-2024 06:54:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 16
+[19-Jun-2024 06:54:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 17
+[19-Jun-2024 06:54:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 18
+[19-Jun-2024 06:54:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/chhavi/public_html/demo1/server.php on line 19

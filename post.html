@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="facebook.css">
+    <style>
+        
+#news-feed {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .news-item {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .news-item img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .news-item h2 {
+    margin-top: 0;
+  }
+  
+  .news-item p {
+    margin-bottom: 10px;
+  }
+  
+    </style>
+
+
+</head>
+<body>
+    
+
+    <button class="icon-button e-dark-mode-button u-animation-click" id="darkMode" aria-label="Dark Mode"><span class="icon" aria-hidden="true">🌜</span></button>
+<div class="common-structure">
+  <header class="main-header u-flex">
+    <div class="start u-flex">
+       <a class="logo">connect:) </a>
+       <div class="search-box-wrapper">
+         <input type="search" class="search-box" placeholder="Search Facebook">
+         <span class="icon-search" aria-label="hidden">🔎</span>
+      </div>
+    </div>
+    <nav class="main-nav">
+      <ul class="main-nav-list u-flex">
+        <li class="main-nav-item u-only-wide"><a aria-label="Homepage" class="main-nav-button alt-text is-selected"><span class="icon" aria-hidden="true">🏠</span></a></li>
+        
+      </ul>
+    </nav>
+    <div class="end"></div>
+  </header>
+  <nav class="user-nav">
+      <ul class="user-nav-list u-flex">
+        <li class="user-nav-item">
+          <a class="user">
+            <img class="user-image" src="https://assets.codepen.io/65740/internal/avatars/users/default.png" height="28" width="28" alt="">
+            <span class="user-name">janedoe_</span>
+          </a>
+        </li>
+
+        <a href="chat.html"  >
+       <li class="user-nav-item">
+          <button class="icon-button alt-text" aria-label="Messenger"><span class="icon" aria-hidden="true">💬</span></button>
+        </li></a>
+        <li class="user-nav-item">
+          <button class="icon-button alt-text" aria-label="Notifications"><span class="icon" aria-hidden="true">🔔</span></button>
+        </li>
+
+      </ul>
+    </nav>
+  <aside class="side-a">
+    <section class="common-section">
+      <h2 class="section-title u-hide">User Navigation</h2>
+      <ul class="common-list">
+        <li class="common-list-item">
+          <a href="profile.html"  class="common-list-button">
+            <span class="icon">
+              <img class="user-image" src="https://assets.codepen.io/65740/internal/avatars/users/default.png" height="36" width="36" alt="">
+            </span>
+            <span class="text">janedoe_</span>
+          </a>
+        </li>
+        <li class="common-list-item">
+          <a href="chat.html" class="common-list-button">
+<span class="icon" aria-hidden="true">💬</span>
+            <span class="text">Messenger</span>
+          </a>
+        </li>
+        <li class="common-list-item">
+          <a class="common-list-button">
+            <span class="icon">👨&zwj;👦&zwj;👦</span>
+            <span class="text">Groups</span>
+          </a></li></ul></section>
+  </aside>
+
+
+
+  <div id="news-feed">
+
+  </div>
+
+  
+</div>
+
+
+
+
+
+
+
+ <link rel="stylesheet" href="facebook.js">
+    <script>
+        
+    async function fetchNews() {
+ 
+        const apiUrl = `https://jsonplaceholder.typicode.com/posts?_limit=15`;
+ 
+        try {
+            const response = await fetch(apiUrl);
+            const data = await response.json();
+ 
+            return data;
+        } catch (error) {
+            console.error('Error fetching news:', error);
+            return [];
+        }
+    }
+ 
+    async function renderNews() {
+        const newsFeed = document.getElementById("news-feed");
+        newsFeed.innerHTML = "";
+        const newsData = await fetchNews();
+        newsData.forEach(news => {
+            const newsItem = document.createElement("div");
+            newsItem.classList.add("news-item");
+            newsItem.innerHTML = `
+<img src="${news.url}" />
+<h2>${news.title}</h2>
+<p>${news.body}</p>
+<p class="timestamp">${new Date().toDateString()}</p>
+          `;
+            newsFeed.appendChild(newsItem);
+        });
+    }
+ 
+    window.onload = renderNews;
+
+
+
+    </script>
+
+</body>
+
+</html>
